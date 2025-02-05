@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="RFLN - Roflan Pominki">
+    <meta property="og:description" content="The official page of RFLN (Roflan Pominki) token on Solana.">
+    <meta property="og:image" content="https://i.ibb.co/BHZFN4CV">
+    <title>RFLN - Roflan Pominki</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #111;
+            color: #fff;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            background: #222;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+        }
+        img {
+            max-width: 200px;
+            border-radius: 10px;
+        }
+        a {
+            color: #1da1f2;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 12px;
+            opacity: 0.7;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://i.ibb.co/BHZFN4CV" alt="RFLN Logo">
+        <h1>RFLN - Roflan Pominki</h1>
+        <p>The official token of Roflan Pominki on Solana blockchain.</p>
+        <p><strong>Token Address:</strong> 2nY6UEAfbSsGUNMnxESqFvEbNmGjvxPeDkfwego3PWyf</p>
+        <p><strong>Follow us on Twitter:</strong> <a href="https://x.com/luca1337bruneli" target="_blank">@luca1337bruneli</a></p>
+        <p><strong>Powered by Solana Blockchain</strong></p>
+    </div>
+    <div class="footer">
+        &copy; 2024 RFLN Token. All rights reserved.
+    </div>
+</body>
+</html>
